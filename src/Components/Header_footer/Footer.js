@@ -8,7 +8,7 @@ const Footer = () => {
         <CityLogo width="70px" height="70px" link={true} linkTo="/" />
       </div>
       <div className="footer_discl">
-        A Wilkison Production 2021. All Rights Reserved
+        2021 - All Rights Reserved
       </div>
     </footer>
   );
